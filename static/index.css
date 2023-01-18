@@ -1,0 +1,60 @@
+body {
+    background-color: #2e9598;
+    /* background-color: #f7db69; */
+    /* background-color: #f26a44; */
+    /* background-color: #ec1b4b; */
+    /* background-color: #a8216b; */
+
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div {
+    padding: 0px;
+    margin: 10px;
+    border: 0px;
+}
+
+/* Contains the text. */
+p {
+    /* background-color: #2e9598; */
+    /* background-color: #f7db69; */
+    /* background-color: #f26a44; */
+    /* background-color: #ec1b4b; */
+    /* background-color: #a8216b; */
+
+    background-color: #f34ca8;
+
+    padding: 5px;
+    margin: 0px;
+    border: 0px;
+
+    font-size: x-large;
+}
+
+h1 {
+    /* background-color: #2e9598; */
+    /* background-color: #f7db69; */
+    /* background-color: #f26a44; */
+    /* background-color: #ec1b4b; */
+    background-color: #a8216b;
+
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+
+    font-size: xx-large;
+}
+
+.container {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
